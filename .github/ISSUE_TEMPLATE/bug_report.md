@@ -1,3 +1,7 @@
+<!--
+뭐에 쓰는 파일인지 잘 모르겠음!
+-->
+
 ---
 name: "Bug Report"
 about: "Is something not working as expected?"
